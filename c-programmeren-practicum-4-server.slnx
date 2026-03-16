@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="c-programmeren-practicum-4-server/c-programmeren-practicum-4-server.vcxproj" Id="50d30eec-aea7-4288-8686-79e3d7ec3664" />
+</Solution>
