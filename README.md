@@ -1,7 +1,5 @@
 # C Practicum – Les 4: Socket Server (WinSock)
 
-Semester NSE 4 | Alle code is geschreven in 100% C
-
 ## Beschrijving
 
 Deze map bevat de servercode behorende bij les 4 van het C practicum. In deze les wordt kennisgemaakt met netwerkcommunicatie via sockets in C, gebruikmakend van de WinSock API op Windows.
